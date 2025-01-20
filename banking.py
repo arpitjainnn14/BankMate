@@ -85,6 +85,6 @@ while True:
         print(bank1.withdraw(amount))
 
     elif choice == 5:
-        print('Thank you for using this program!')
+        print('Thank you for using BankMate Program!')
         break
 
